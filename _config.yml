@@ -20,8 +20,8 @@ locale                   : "en-US"
 title                    : "디자이너의 영혼을 가진 개발자의 개발로그"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "ujjj"
-description              : "n차 디자이너 + 개발자"
+name                     : "Udev"
+description              : "n년차 디자이너 + 개발자"
 url                      : "https://ujjj56.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -95,9 +95,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Udev"
+  name             : "ujjj"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "n차 디자이너 + 개발자"
+  bio              : "n년차 디자이너 + 개발자"
   location         : "Somewhere"
   email            :
   links:
