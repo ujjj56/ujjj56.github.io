@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "en-US"
-title                    : "디자이너의 영혼을 가진 개발자의 개발로그"
+title                    : "디자이너의 영혼을 가진 Udev의 개발로그"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Udev"
